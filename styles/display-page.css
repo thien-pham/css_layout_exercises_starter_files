@@ -10,7 +10,7 @@ main {
 
 
 .half {
-  width: 50;
+  width: 50%;
   height: 200px;
   display: inline-block;
 }
